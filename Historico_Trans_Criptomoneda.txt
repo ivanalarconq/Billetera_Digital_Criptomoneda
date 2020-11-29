@@ -1,1 +1,6 @@
 ï»¿
+Fecha:Sunday 29/11/2020 04:40:33AM,Moneda:BTC,Transacción:Recibido,Código usuario:1,Cantidad :50.0,Total de la operación en $USD:906079.0000000001, Total acumulado en cuenta en $USD:906079.0000000001
+Fecha:Sunday 29/11/2020 04:41:36AM,Moneda:ETH,Transacción:Recibido,Código usuario:2,Cantidad :50.0,Total de la operación en $USD:27582.5, Total acumulado en cuenta en $USD:27582.5
+Fecha:Sunday 29/11/2020 04:42:17AM,Moneda:LTC,Transacción:Recibido,Código usuario:3,Cantidad :50.0,Total de la operación en $USD:3814.5000000000005, Total acumulado en cuenta en $USD:3814.5000000000005
+Fecha:Sunday 29/11/2020 04:44:54AM,Moneda:BTC,Transacción:Enviado,Código usuario:1,Cantidad :50.0,Total de la operación en $USD:906139.5, Total acumulado en cuenta en $USD:0.0
+Fecha:Sunday 29/11/2020 04:46:53AM,Moneda:BTC,Transacción:Recibido,Código usuario:1,Cantidad :50.0,Total de la operación en $USD:905057.0, Total acumulado en cuenta en $USD:905057.0
